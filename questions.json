@@ -67,7 +67,7 @@
   },
   {
     "question": "Frage: Welche Schleife garantiert mindestens einen Durchlauf?",
-    "answer": "do-while",
+    "answer": "do-while-Schleife",
     "explanation": "Die do-while-Schleife prüft die Bedingung erst am Ende. Deshalb wird der Schleifenblock mindestens einmal ausgeführt."
   },
   {
