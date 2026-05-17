@@ -45,7 +45,14 @@
   },
   {
     "question": "Frage: Welche Schleifenart ist kopfgesteuert und prüft die Bedingung vor jedem Durchlauf, sodass sie nur läuft, solange die Bedingung wahr ist?",
-    "answer": "while"
+    "answer": [ 
+"while",
+"while schleife",
+"for"
+"for schleife",
+"for each",
+"for each schleife"
+]
   },
   {
     "question": "Frage: Welche Schleifenart wird in Java verwendet, wenn eine feste Anzahl an Durchläufen bekannt ist und Initialisierung, Bedingung und Schritt in einer Zeile stehen?",
