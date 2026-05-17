@@ -70,17 +70,26 @@
   },
   {
     "question": "Frage: Welche Schleifenart wird verwendet, um alle Elemente eines Arrays oder einer Liste direkt nacheinander zu durchlaufen, ohne einen Index zu verwenden?",
-    "answer": "for-each",
+    "answer": [
+"for-each",
+"for each schleife"
+]
     "explanation": "Die for-each-Schleife wird verwendet, um alle Elemente einer Sammlung direkt nacheinander zu durchlaufen. Dabei muss kein eigener Index verwaltet werden."
   },
   {
     "question": "Frage: Welche Schleife nutzt einen Index?",
-    "answer": "for Schleife",
+    "answer": [
+"for Schleife",
+"for"
+]
     "explanation": "Die for-Schleife arbeitet typischerweise mit einer Zählvariable (Index), die bei jedem Durchlauf verändert wird."
   },
   {
     "question": "Frage: Welche Schleife garantiert mindestens einen Durchlauf?",
-    "answer": "do-while-Schleife",
+    "answer": [
+"do-while-Schleife",
+"do while"
+]
     "explanation": "Die do-while-Schleife prüft die Bedingung erst am Ende. Deshalb wird der Schleifenblock mindestens einmal ausgeführt."
   },
   {
@@ -99,7 +108,7 @@
     "explanation": "Bei einer Wertzuweisung wird einer vorhandenen Variable ein neuer Wert zugewiesen oder ihr bestehender Wert verändert."
   },
   {
-    "question": "Frage: Wie nennt man den Vorgang, wenn eine Variable gleichzeitig deklariert und initialisiert wird?",
+    "question": "Frage: Wie nennt man den Vorgang, bei dem einer Variable gleichzeitig Datentyp und Name bestimmt werden und der Variable ein Wert zugewiesen wird?",
     "answer": "Deklaration und Initialisierung",
     "explanation": "Hier werden Variablenanlage und erste Wertzuweisung in derselben Codezeile durchgeführt."
   }
