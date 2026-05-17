@@ -73,7 +73,7 @@
     "answer": [
 "for-each",
 "for each schleife"
-]
+],
     "explanation": "Die for-each-Schleife wird verwendet, um alle Elemente einer Sammlung direkt nacheinander zu durchlaufen. Dabei muss kein eigener Index verwaltet werden."
   },
   {
@@ -81,7 +81,7 @@
     "answer": [
 "for Schleife",
 "for"
-]
+],
     "explanation": "Die for-Schleife arbeitet typischerweise mit einer Zählvariable (Index), die bei jedem Durchlauf verändert wird."
   },
   {
@@ -89,7 +89,7 @@
     "answer": [
 "do-while-Schleife",
 "do while"
-]
+],
     "explanation": "Die do-while-Schleife prüft die Bedingung erst am Ende. Deshalb wird der Schleifenblock mindestens einmal ausgeführt."
   },
   {
