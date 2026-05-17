@@ -56,7 +56,10 @@
   },
   {
     "question": "Frage: Welche Schleifenart wird in Java verwendet, wenn eine feste Anzahl an Durchläufen bekannt ist und Initialisierung, Bedingung und Schritt in einer Zeile stehen?",
-    "answer": "for"
+    "answer": [
+"for",
+"for schleife"
+]
   },
   {
     "question": "Frage: Welche Schleifenart führt den Schleifenblock mindestens einmal aus und prüft die Bedingung erst am Ende jedes Durchlaufs?",
