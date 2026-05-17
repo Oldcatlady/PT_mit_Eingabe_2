@@ -50,7 +50,7 @@ const isCorrect = answers.some(a => normalize(a) === user);
   answered = true;
   checked = true;
 
-  if (user === correctAnswerCheck) {
+  if (isCorrect) {
     correct++;
     showFeedback(true, q.explanation, correctAnswerDisplay);
   } else {
