@@ -63,7 +63,10 @@
   },
   {
     "question": "Frage: Welche Schleifenart führt den Schleifenblock mindestens einmal aus und prüft die Bedingung erst am Ende jedes Durchlaufs?",
-    "answer": "do-while"
+    "answer": [
+"do-while",
+"do while schleife"
+]
   },
   {
     "question": "Frage: Welche Schleifenart wird verwendet, um alle Elemente eines Arrays oder einer Liste direkt nacheinander zu durchlaufen, ohne einen Index zu verwenden?",
