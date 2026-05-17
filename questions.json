@@ -28,23 +28,23 @@
     "answer": "char"
   },
   {
-    "question": "Frage: Welcher Datentyp speichert sehr kleine ganze Zahlen im Bereich -128 bis 127?",
+    "question": "Welcher Datentyp speichert sehr kleine ganze Zahlen im Bereich -128 bis 127?",
     "answer": "byte"
   },
   {
-    "question": "Frage: Welche Datenstruktur speichert mehrere Werte desselben Datentyps in einer festen Größe?",
+    "question": "Welche Datenstruktur speichert mehrere Werte desselben Datentyps in einer festen Größe?",
     "answer": "Array"
   },
   {
-    "question": "Frage: Welche Datenstruktur speichert mehrere Werte dynamisch und kann wachsen oder schrumpfen?",
+    "question": "Welche Datenstruktur speichert mehrere Werte dynamisch und kann wachsen oder schrumpfen?",
     "answer": "ArrayList"
   },
   {
-    "question": "Frage: Wie nennt man Datentypen in Java, die nicht direkt primitive Werte speichern, sondern Objekte darstellen?",
+    "question": "Wie nennt man Datentypen in Java, die nicht direkt primitive Werte speichern, sondern Objekte darstellen?",
     "answer": "Referenzdatentypen"
   },
   {
-    "question": "Frage: Welche Schleifenart ist kopfgesteuert und prüft die Bedingung vor jedem Durchlauf, sodass sie nur läuft, solange die Bedingung wahr ist?",
+    "question": "Welche Schleifenart ist kopfgesteuert und prüft die Bedingung vor jedem Durchlauf, sodass sie nur läuft, solange die Bedingung wahr ist?",
     "answer": [ 
 "while",
 "while schleife",
@@ -55,21 +55,21 @@
 ]
   },
   {
-    "question": "Frage: Welche Schleifenart wird in Java verwendet, wenn eine feste Anzahl an Durchläufen bekannt ist und Initialisierung, Bedingung und Schritt in einer Zeile stehen?",
+    "question": "Welche Schleifenart wird in Java verwendet, wenn eine feste Anzahl an Durchläufen bekannt ist und Initialisierung, Bedingung und Schritt in einer Zeile stehen?",
     "answer": [
 "for",
 "for schleife"
 ]
   },
   {
-    "question": "Frage: Welche Schleifenart führt den Schleifenblock mindestens einmal aus und prüft die Bedingung erst am Ende jedes Durchlaufs?",
+    "question": "Welche Schleifenart führt den Schleifenblock mindestens einmal aus und prüft die Bedingung erst am Ende jedes Durchlaufs?",
     "answer": [
 "do-while",
 "do while schleife"
 ]
   },
   {
-    "question": "Frage: Welche Schleifenart wird verwendet, um alle Elemente eines Arrays oder einer Liste direkt nacheinander zu durchlaufen, ohne einen Index zu verwenden?",
+    "question": "Welche Schleifenart wird verwendet, um alle Elemente eines Arrays oder einer Liste direkt nacheinander zu durchlaufen, ohne einen Index zu verwenden?",
     "answer": [
 "for-each",
 "for each schleife"
@@ -77,7 +77,7 @@
     "explanation": "Die for-each-Schleife wird verwendet, um alle Elemente einer Sammlung direkt nacheinander zu durchlaufen. Dabei muss kein eigener Index verwaltet werden."
   },
   {
-    "question": "Frage: Welche Schleife nutzt einen Index?",
+    "question": "Welche Schleife nutzt einen Index?",
     "answer": [
 "for Schleife",
 "for"
@@ -85,7 +85,7 @@
     "explanation": "Die for-Schleife arbeitet typischerweise mit einer Zählvariable (Index), die bei jedem Durchlauf verändert wird."
   },
   {
-    "question": "Frage: Welche Schleife garantiert mindestens einen Durchlauf?",
+    "question": "Welche Schleife garantiert mindestens einen Durchlauf?",
     "answer": [
 "do-while-Schleife",
 "do while"
@@ -93,22 +93,25 @@
     "explanation": "Die do-while-Schleife prüft die Bedingung erst am Ende. Deshalb wird der Schleifenblock mindestens einmal ausgeführt."
   },
   {
-    "question": "Frage: Wie bezeichnet man den Vorgang, bei dem in Java eine Variable mit einem bestimmten Datentyp und Namen angelegt wird, ohne ihr direkt einen Wert zuzuweisen?",
+    "question": "Wie bezeichnet man den Vorgang, bei dem in Java eine Variable mit einem bestimmten Datentyp und Namen angelegt wird, ohne ihr direkt einen Wert zuzuweisen?",
     "answer": "Deklaration",
     "explanation": "Bei der Deklaration wird nur die Variable angelegt. Sie erhält dabei noch keinen konkreten Wert."
   },
   {
-    "question": "Frage: Wie bezeichnet man den Vorgang, bei dem einer bereits angelegten Variablen zum ersten Mal ein konkreter Wert zugewiesen wird?",
+    "question": "Wie bezeichnet man den Vorgang, bei dem einer bereits angelegten Variablen zum ersten Mal ein konkreter Wert zugewiesen wird?",
     "answer": "Initialisierung",
     "explanation": "Bei der Initialisierung erhält eine bereits deklarierte Variable zum ersten Mal einen konkreten Wert."
   },
   {
-    "question": "Frage: Wie bezeichnet man den Vorgang, bei dem einer bereits existierenden Variablen ein neuer Wert zugewiesen oder ihr Wert verändert wird?",
-    "answer": "Wertzuweisung",
+    "question": "Wie bezeichnet man den Vorgang, bei dem einer bereits existierenden Variablen ein neuer Wert zugewiesen oder ihr Wert verändert wird?",
+    "answer": [
+"Wertzuweisung",
+"Zuweisung"
+],
     "explanation": "Bei einer Wertzuweisung wird einer vorhandenen Variable ein neuer Wert zugewiesen oder ihr bestehender Wert verändert."
   },
   {
-    "question": "Frage: Wie nennt man den Vorgang, bei dem einer Variable gleichzeitig Datentyp und Name bestimmt werden und der Variable ein Wert zugewiesen wird?",
+    "question": "Wie nennt man den Vorgang, bei dem einer Variable gleichzeitig Datentyp und Name bestimmt werden und der Variable ein Wert zugewiesen wird?",
     "answer": "Deklaration und Initialisierung",
     "explanation": "Hier werden Variablenanlage und erste Wertzuweisung in derselben Codezeile durchgeführt."
   }
